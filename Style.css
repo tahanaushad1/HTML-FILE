@@ -1,0 +1,15 @@
+.topic{
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: yellow;
+        
+}
+
+.topic :hover{
+    background-color: yellow;
+    color: red;
+    
+    
+}
